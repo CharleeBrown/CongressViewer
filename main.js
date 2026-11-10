@@ -1,7 +1,4 @@
-// visible because anyone can request an api key from Congress.gov.
-// Otherwise it would be obfuscated.
 
-api_key="FwRJjmDffRK6MprJHqnTwwRrfmCndCG8Nmk7tjdC"
 
 async function startUp(){
 
